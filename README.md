@@ -3,6 +3,35 @@
 
 ---
 
+## 🛒 Pricing  
+
+| **License Type**        | **Price**     | **Features**                                                                                 |  
+|--------------------------|---------------|---------------------------------------------------------------------------------------------|  
+| **Regular License**      | $148           | - Use for a single project. <br> - End users cannot be charged for using the product.       |  
+| **Extended License**     | $280          | - Use for multiple projects or a SaaS platform. <br> - End users can be charged for access. |  
+
+
+---
+
+## 🖼️ Demo Screenshots  
+### Dashboard  
+![Dashboard Preview](./path/to/dashboard.jpg)  
+*A powerful, intuitive dashboard for quick insights into your business performance.*
+
+### POS Interface  
+![POS System](./path/to/pos-interface.jpg)  
+*A seamless and user-friendly POS system tailored for retail and hospitality businesses.*
+
+### Inventory Management  
+![Inventory Management](./path/to/inventory-management.jpg)  
+*Easily track stock levels, receive alerts, and make adjustments.*
+
+### Accounting Module  
+![Accounting Module](./path/to/accounting.jpg)  
+*Simplify financial tracking with integrated ledgers and reporting tools.*
+
+---
+
 ## 🛠️ Features  
 
 ### **Core Functionalities**  
@@ -29,19 +58,6 @@
 ### **Advanced Reporting and Analytics**  
 - Sales, inventory, and financial analytics to drive data-driven decisions.  
 - Visual dashboards for key performance metrics.  
-
-### **Integrations**  
-- **Payment Gateways:** Stripe, PayPal, and more for seamless transactions.  
-- **Third-Party Integrations:** CRM and eCommerce platforms for enhanced functionality.  
-
-### **Cross-Platform Support**  
-- Web-based solution optimized for all devices.  
-- Progressive Web App (PWA) support for mobile-first businesses.  
-
-### **Security Features**  
-- Role-based Access Control (RBAC): Manage user permissions.  
-- Data Encryption: Ensure customer and transaction data is secure.  
-- Regular Backups: Automated database backups for data reliability.  
 
 ---
 
@@ -138,6 +154,6 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 📞 Support  
 For support or questions, feel free to reach out:  
-- **Email:** khansaab7828@gmail.com 
+- **Email:** khansaab7828@gmail.com  
 
 ---
