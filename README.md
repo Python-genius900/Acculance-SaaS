@@ -27,7 +27,7 @@
 *Easily track stock levels, receive alerts, and make adjustments.*
 
 ### Accounting Module  
-![Accounting Module](./path/to/accounting.jpg)  
+![Accounting Module](Accounting.png)  
 *Simplify financial tracking with integrated ledgers and reporting tools.*
 
 ---
