@@ -15,15 +15,15 @@
 
 ## 🖼️ Demo Screenshots  
 ### Dashboard  
-![Dashboard Preview](./path/to/dashboard.jpg)  
+![Dashboard Preview](Dashboard-·-Acculance-SaaS.png)  
 *A powerful, intuitive dashboard for quick insights into your business performance.*
 
 ### POS Interface  
-![POS System](./path/to/pos-interface.jpg)  
+![POS System](POS-·-Acculance-SaaS.png)  
 *A seamless and user-friendly POS system tailored for retail and hospitality businesses.*
 
 ### Inventory Management  
-![Inventory Management](./path/to/inventory-management.jpg)  
+![Inventory Management](Inventory-·-Acculance-SaaS.png)  
 *Easily track stock levels, receive alerts, and make adjustments.*
 
 ### Accounting Module  
